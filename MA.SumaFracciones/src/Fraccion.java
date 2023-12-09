@@ -15,7 +15,7 @@ public class Fraccion {
         }
         this.numerador = numerador;
         this.denominador = denominador;
-        simplify(); // Call the simplify method to reduce the fraction
+        simplify(); // Manda a llamar a simplificar
     }
     
   
